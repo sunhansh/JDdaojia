@@ -1,0 +1,51 @@
+
+.content {
+		margin-top: 50upx;
+		text-align: center;
+		height: 400upx;
+	}
+/*  */
+	.phone{
+		width: 40%;
+		height: 70upx;
+		font-size: 35upx;
+		margin: 0 auto;
+		display: inline-block;
+	}
+	.password{
+		width: 40%;
+		height: 70upx;
+		font-size: 35upx;
+		margin: 0 auto;
+		display: inline-block;
+	}
+	
+/* 登录内容外盒 */	
+.dengneirong{
+	width: 100%;
+	height: 60upx;
+	border: red solid 1upx;
+	margin-top: 20upx;
+}
+/* 手机小图 */
+.qiantu1{
+	width: 50upx;
+	height: 50upx;
+	border: #0000FF solid 1upx;
+	margin-top: -50upx;
+	margin-left: 30upx;
+}
+.qiantu2{
+	width: 40upx;
+	height: 50upx;
+}
+
+/* 横线 */
+.hengxian{
+	border-bottom: slategray solid 2upx;
+}
+
+/* 提示语句 */
+.tishiyuju{
+	font-size:35upx;
+}

@@ -1,0 +1,90 @@
+
+
+/* 当前位置 */
+.weizhi{
+	width: 300upx;
+	height: 50upx;
+	border: red solid 1upx;
+	border-radius: 50upx;
+	margin:10upx auto ;
+}
+
+/* 当前位置 设置图片 */
+#dizhi1{
+	width: 300upx;
+	height: 50upx;
+	border: #000000 solid 1upx;
+	margin: auto 0upx;
+	/* display: inline-block; */
+	line-height: 50upx;
+	color: white;
+	font-size: 25upx;
+	background-color: green;
+	border-radius: 50upx;
+}
+.dizhi2{
+	width: 50upx;
+	height: 50upx;
+}
+/* .dizhiming{
+	color: whitesmoke;
+	width: 400upx;
+	height: 50upx;
+	border: #000000 solid 1upx;
+	margin-left: 80upx;
+	
+	margin-top: -60upx;
+	background-color: green;
+	font-size: 35upx;
+} */
+
+/* 购物车中的商品 */
+.zjzhongtu{
+	width: 100%;
+	height: 330upx;
+	border: black solid 1upx;
+	margin-top: 25upx;
+}
+/* 店铺名 */
+.zhongtutimu{
+	float: left;
+	width: 300upx;
+	height: 60upx;
+	border: red solid 1upx;	
+}
+/* 箭头 */
+.jiantou{
+	width: 50upx;
+	height: 60upx;
+	float: right;
+	border: green solid 1upx;
+	font-size: 60upx;
+	color: silver;
+	text-align: 60upx;
+}
+/* 横线 */
+.hengxian{
+	border-bottom: silver solid 2upx;
+	margin-top: 80upx;
+}
+
+ /* 图片 */
+.zhongtutupian1{
+	width: 170upx;
+	height: 160upx;
+	border: red solid 1upx;
+	margin-top: 30upx;
+	margin-left: 30upx;
+}
+.zhongtutupian2{
+	width: 170upx;
+	height:160upx;
+	
+}
+/* 价钱 */
+.jiage{
+  	width: 110upx;
+  height: 40upx;
+   margin-left: 60upx;
+  border: red solid 1upx;
+}

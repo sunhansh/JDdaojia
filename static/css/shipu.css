@@ -1,0 +1,137 @@
+
+.content {
+		margin-top: 50upx;
+		text-align: center;
+		height: 400upx;
+	}
+/* 表头大食谱图片 */
+.dashipu1{
+	width: 100%;
+	height: 400upx;
+	border: #000000 solid 1upx;
+	margin-top: -200upx;
+}
+.dashipu2{
+	width: 100%;
+	height: 400upx;
+}
+
+/* 输入框 搜食材 */
+.soucai1{
+	width: 100%;
+	height: 80upx;
+	border: red solid 1upx;
+	background-color: whitesmoke;
+	text-align: center;
+      margin-top: 20upx;
+}
+/* 放大镜 */
+.fangdajing1{
+	width: 50upx;
+	height: 50upx;
+	margin-left: 200upx;
+	border: green solid 1upx;
+	line-height: 80upx;
+    
+}
+.fangdajing2{
+	width: 40upx;
+	height: 40upx;   
+}
+/* 输入框 搜食材 */
+.soucai2{
+	width: 100%;
+	height: 70upx;
+	border-radius:50upx;
+	border: #000000 solid 1upx;
+	background-color: whitesmoke;
+	text-align: center;
+	margin-top: -50upx;
+}
+
+/* 功能小图 */
+.gnxioatu0{
+    width: 120upx;
+	height: 180upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left:25upx;
+	margin-top: 20upx;
+}
+.gnxioatu1{
+     width: 120upx;
+	height: 30upx;
+	border: blue solid 1upx;
+	font-size: 30upx;
+	text-align: center;
+	line-height: 30upx;
+	margin: 0 auto;
+}
+.gnxioatu2{
+	width: 110upx;
+	height: 110upx;
+	border: red solid 1upx;
+    text-align: center;
+	line-height: 60upx;
+	font-size: 30upx;
+	background-color: #006400;
+	border-radius: 150upx;
+	font-size: 60upx;
+	line-height: 110upx;
+	color: white;
+	margin: 10upx auto;
+}
+
+/* 中间内容大食谱图片 */
+.zjdatu{
+	width: 100%;
+	height: 400upx;
+	border: black solid 1upx;
+	margin-top: 80upx;
+}
+.datutimu{
+	font-weight: bold;
+	float: left;
+	width: 190upx;
+	height: 50upx;
+	border: red solid 1upx;
+	margin-top: 10upx;
+}
+.datutupian1{
+	width: 100%;
+	height: 320upx;
+	border: blueviolet solid 1upx;
+	/* margin-top: 80upx; */
+}
+.datutupian2{
+	width: 100%;
+	height:320upx;
+}
+
+/* 中间内容 中形食谱图片 */
+.zjzhongtu{
+	width: 100%;
+	height: 320upx;
+	border: black solid 1upx;
+	margin-top: 25upx;
+}
+.zhongtutimu{
+	font-weight: bold;
+	float: left;
+	width: 300upx;
+	height: 50upx;
+	border: red solid 1upx;
+	margin-top: 30upx;
+	margin-left: 340upx;
+}
+.zhongtutupian1{
+	width: 320upx;
+	height: 310upx;
+	border: blueviolet solid 1upx;
+	/* margin-top: 80upx; */
+}
+.zhongtutupian2{
+	width: 320upx;
+	height:300upx;
+	margin-top: -70upx;
+}

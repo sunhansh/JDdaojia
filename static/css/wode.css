@@ -1,0 +1,172 @@
+
+.toulv1{
+	width: 100%;
+	height: 110upx;
+	border:  solid 1upx red;
+	background-color: #3CC51F;
+	
+}
+.toulv2{
+	width: 100%;
+	height: 170upx;
+	border:  solid 1upx red;
+	background-color: #3CC51F;
+}
+/* 设置图片 */
+#shezhi1{
+	width: 60upx;
+	height: 60upx;
+	border: #000000 solid 1upx;
+	margin: 10upx 0 0 10upx;
+	display: inline-block;
+}
+.shezhi2{
+	width: 60upx;
+	height: 60upx;
+}
+/* 信息图片 */
+#xinxi1{
+	width: 60upx;
+	height: 60upx;
+	border: #000000 solid 1upx;
+	margin: 0upx 10upx 0 600upx;
+	display: inline-block;
+}
+.xinxi2{
+	width: 60upx;
+	height: 60upx;
+}
+/* 头像图片 */
+#touxiang1{
+	width: 130upx;
+	height: 130upx;
+	border: #000000 solid 1upx;
+	border-radius: 130upx;
+	margin-left: 10upx;
+	display: inline-block;
+}
+.touxiang2{
+	width: 120upx;
+	height: 130upx;
+}
+/* 登录/注册 */
+.dz{
+	width: 220upx;
+	height: 80upx;
+	background-color: darkgreen;
+	color: white;
+	line-height: 80upx;
+	margin-left: 15upx;
+	margin-bottom: 20upx;
+	font-size: 30upx;
+	display: inline-block;
+}
+/* 头部下方 */
+.touxia{
+	width: 100%;
+	height: 120upx;
+	border: red solid 1upx;
+}
+/* 钱包图片 */
+#qianbao1{
+	width: 95upx;
+	height: 110upx;
+	border: #000000 solid 1upx;
+	margin-left: 10upx;
+	display: inline-block;
+	
+}
+.qianbao2{
+	width: 95upx;
+	height: 70upx;
+}
+/* 字 */
+.zi{
+	width:95upx;
+	height: 30upx;
+	border: #000000 solid 1upx;
+	font-size: 25upx;
+	
+}
+/* 数量 */
+.shuliang0{
+    width: 100upx;
+	height: 90upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left: 45upx;
+	
+}
+.shuliang1{
+     width: 100upx;
+	height: 30upx;
+	border: blue solid 1upx;
+	font-size: 25upx;
+	text-align: center;
+	line-height: 30upx;
+}
+.shuliang2{
+	width: 100upx;
+	height: 60upx;
+	border: red solid 1upx;
+    text-align: center;
+	line-height: 60upx;
+	font-size: 30upx;
+}
+/* 轮播图 */
+.luenbo1{
+	width: 100%;
+	height: 100upx;
+	border-radius: 40upx;
+	border: #000000 solid 1upx;
+	border-radius: 30upx;
+}
+.luenbo2{
+	width: 100%;
+	height: 100upx;
+}
+.luenbotu{
+	width: 100%;
+	height: 100upx;
+}
+
+.uni-padding-wrap{
+	width: 100%;
+	height: 110upx;
+}
+	
+
+/* 功能小图 */
+.gnxioatu0{
+    width: 120upx;
+	height: 100upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left: 50upx;
+	margin-top: 30upx;
+	
+}
+.gnxioatu1{
+     width: 120upx;
+	height: 30upx;
+	border: blue solid 1upx;
+	font-size: 25upx;
+	text-align: center;
+	line-height: 30upx;
+}
+.gnxioatu2{
+	width: 120upx;
+	height: 70upx;
+	border: red solid 1upx;
+    text-align: center;
+	line-height: 60upx;
+	font-size: 30upx;
+}
+.gnxioatu{
+	width: 80upx;
+	height: 70upx;
+}
+/* 横线 */
+.xian{
+	border-bottom: #353535 solid 1upx;
+}

@@ -1,0 +1,269 @@
+
+.toulv1{
+	width: 100%;
+	height: 110upx;
+	border:  solid 1upx red;
+	background-color: #3CC51F;
+	
+}
+.toulv2{
+	width: 100%;
+	height: 170upx;
+	border:  solid 1upx red;
+	background-color: #3CC51F;
+}
+
+
+/* 设置图片 */
+#dizhi1{
+	width: 60upx;
+	height: 60upx;
+	border: #000000 solid 1upx;
+	margin: 10upx 0 0 10upx;
+	/* display: inline-block; */
+	line-height: 60upx;
+	color: white;
+}
+.dizhi2{
+	width: 60upx;
+	height: 60upx;
+}
+.dizhiming{
+	color: whitesmoke;
+	width: 250upx;
+	height: 60upx;
+	border: #000000 solid 1upx;
+	margin-left: 90upx;
+	margin-top: -60upx;
+}
+
+/* 信息图片 */
+#fenlei1{
+	width: 60upx;
+	height: 60upx;
+	border: #000000 solid 1upx;
+	margin-left: 650upx;
+	margin-top: -60upx;
+	/* display: inline-block; */
+}
+.fenlei2{
+	width: 60upx;
+	height: 60upx;
+}
+/* 搜索框 */
+.sousuo{
+	width: 100%;
+	height: 70upx;
+	border-radius:30upx;
+	border: #000000 solid 1upx;
+	background-color: white;
+	text-align: center;
+}
+/* 放大镜 */
+/* .fangda{
+	width: 50upx;
+	height: 50upx;
+	text-align: center;
+} */
+/* 输入框 搜食材 */
+.soucai1{
+	width: 100%;
+	height: 80upx;
+	border: red solid 1upx;
+	background-color: whitesmoke;
+	text-align: center;
+      margin-top: 20upx;
+}
+/* 放大镜 */
+.fangdajing1{
+	width: 50upx;
+	height: 50upx;
+	margin-left: 280upx;
+	border: green solid 1upx;
+	line-height: 80upx;
+    
+}
+.fangdajing2{
+	width: 40upx;
+	height: 40upx;   
+}
+/* 输入框 搜食材 */
+.soucai2{
+	width: 100%;
+	height: 70upx;
+	border-radius:50upx;
+	border: #000000 solid 1upx;
+	background-color: whitesmoke;
+	text-align: center;
+	margin-top: -50upx;
+}
+
+
+
+/* 产品名称 */
+.chanpin{
+	height: 95upx;
+	width: 100%;
+}
+.chanpin ul{
+	margin-top: 7upx;
+	margin-left: 2upx;
+	display: inline-block;
+	padding-left: 28upx;
+	color: white;
+}
+.chanpin li{
+	font-size: 30upx;
+}
+/* 图片 */
+.tupian1{
+	width: 100%;
+	height: 200upx;
+	border: solid black 1upx;
+}
+.tupian2{
+	width: 100%;
+	height: 200upx;
+}
+
+/* 功能小图 */
+.gnxioatu0{
+    width: 120upx;
+	height: 180upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left:25upx;
+}
+.gnxioatu1{
+     width: 120upx;
+	height: 30upx;
+	border: blue solid 1upx;
+	font-size: 30upx;
+	text-align: center;
+	line-height: 30upx;
+	margin: 0 auto;
+}
+.gnxioatu2{
+	width: 110upx;
+	height: 110upx;
+	border: red solid 1upx;
+    text-align: center;
+	line-height: 60upx;
+	font-size: 30upx;
+	background-color: #006400;
+	border-radius: 150upx;
+	font-size: 60upx;
+	line-height: 110upx;
+	color: white;
+	margin: 10upx auto;
+}
+
+/* 新人福利 */
+.xinrenfuli1{
+	width: 100%;
+	height: 250upx;
+	border: red solid 1upx;
+	margin-top: 20upx;
+}
+.xinrenfuli2{
+	width: 100%;
+	height: 250upx;
+}
+/* 轮播图 */
+.luenbotu{
+	width: 100%;
+	height: 150upx;
+}
+.uni-padding-wrap{
+	width: 100%;
+	height: 180upx;
+}
+
+/* 活动 */
+.huodong{
+	width: 45%;
+	height: 220upx;
+	border: #000000 solid 1upx;
+	display: inline-block;
+	margin-left: 25upx;
+}
+/* 活动标题 */
+.biaoti{
+	width: 70%;
+	height: 60upx;
+	border: #0000FF solid 1upx;
+	font-weight:bold;
+}
+/* 小标题 */
+.xiaobiaoti1{
+	width: 40%;
+	height: 40upx;
+	border: red solid 1upx;
+	font-size: 30upx;
+	color: silver;
+	margin-top: 10upx;
+}
+.xiaobiaoti2{
+	width: 80%;
+	height: 40upx;
+	border: red solid 1upx;
+	font-size: 30upx;
+	color: silver;
+	margin-top: 10upx;
+}
+/* 红色小标题 */
+.hongbiaoti{
+	width: 35%;
+	height: 35upx;
+	border: red solid 1upx;
+	font-size: 25upx;
+	color: red;
+	margin-top: 15upx;
+
+}
+/* 活动图片 */
+.hongdongtu1{
+	width: 45%;
+	height: 140upx;
+	border: red solid 1upx;
+	margin: -100upx 0 0 170upx;
+}
+.hongdongtu2{
+	width: 140upx;
+	height: 140upx;
+}
+/* 产品 */
+.chanpin0{
+     width: 170upx;
+	height: 95upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left: 15upx;
+}
+.chanpin1{
+     width: 100%;
+	height: 50upx;
+	border: blue solid 1upx;
+	text-align: center;
+}
+.chanpin2{
+     width: 100%;
+	height: 40upx;
+	border: black solid 1upx;
+	color: red;
+	font-size: 30upx;
+	text-align: center;
+}
+
+/* 产品图片  */
+.chanpintu1{
+     width: 140upx;
+	height: 120upx;
+	border: green solid 1upx;
+	display: inline-block;
+	margin-left: 38upx;
+}
+.chanpintu2{
+     width: 140upx;
+	height: 120upx;
+}
